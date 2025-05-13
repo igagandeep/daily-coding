@@ -26,14 +26,6 @@ Complete **100 days of JavaScript problem solving** to grow as a developer and b
 
 ---
 
-## 📅 Daily Progress
-
-| Date       | Title                     | Link                     |
-|------------|---------------------------|--------------------------|
-| 2025-05-13 | Custom Symbol.iterator    | [View](2025/may/13)      |
-
----
-
 ## 🙌 Want to Join In?
 
 Feel free to fork this repo and start your own daily coding challenge.  
