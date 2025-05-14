@@ -18,11 +18,18 @@ Complete **100 days of JavaScript problem solving** to grow as a developer and b
 
 ## 📈 Streak & Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=igagandeep&theme=default&hide_border=true)         ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igagandeep&show_icons=true&theme=default)
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igagandeep&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igagandeep&show_icons=true&theme=default)
 
 > ⚠️ Replace `your-username` with your actual GitHub username.
+
+---
+
+## 📅 Daily Progress
+
+| Date       | Title                     | Link                     |
+|------------|---------------------------|--------------------------|
+| 2025-05-13 | Custom Symbol.iterator    | [View](2025-05-13/)      |
 
 ---
 
