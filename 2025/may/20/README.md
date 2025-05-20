@@ -31,3 +31,38 @@ return newArr;
 
 };
 ```
+
+
+
+Second Problme: https://leetcode.com/problems/filter-elements-from-array?envType=study-plan-v2&envId=30-days-of-javascript
+
+Intuition
+We want to return a new array containing only those elements from the input array arr that satisfy the condition specified by the function fn. This is similar to how the built-in filter method works.
+
+Approach
+Iterate through the array once, and for each element, apply the function fn with the element and its index. If the function returns true, push that element into a new result array. Finally, return the result array.
+
+Complexity
+Time complexity:
+O(n) where n is the length of the array, since we check each element once.
+
+Space complexity:
+O(k) where k is the number of elements that pass the filter and are stored in the new array.
+
+Code
+/**
+ * @param {number[]} arr
+ * @param {Function} fn
+ * @return {number[]}
+ */
+var filter = function(arr, fn) {
+   const result = [];
+
+   for(let i = 0; i < arr.length; i++){
+     if (fn(arr[i], i)) {
+      result.push(arr[i]);
+    }
+   } 
+
+   return result;
+};
